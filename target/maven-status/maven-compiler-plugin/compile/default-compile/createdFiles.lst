@@ -1,0 +1,10 @@
+TestSelect.class
+TestDelete.class
+TestInsert.class
+ArticleDaoJdbc.class
+FournisseurDaoJdbc.class
+fr\digi\dao\ArticleDao.class
+fr\digi\dao\FournisseurDao.class
+fr\digi\entites\Fournisseur.class
+fr\digi\entites\Articles.class
+TestUpdate.class
